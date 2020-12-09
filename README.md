@@ -1,2 +1,2 @@
 # radchuk_site
- Мой сайт
+Изучаю HTML5 и CSS3
