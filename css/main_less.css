@@ -1,0 +1,14 @@
+html, body {
+    background-color: #8a59a0;
+    color: #f86f0a;
+    font-size: 18px;
+    font-family: Tahoma;
+    line-height: 1.5;
+}
+
+.title {
+    font-size: 45px;
+    color: #f50b0b;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
